@@ -1,0 +1,261 @@
+[
+  {
+    "id": "myanmar-agri-med-ai",
+    "title": "Myanmar Agri-Med AI",
+    "dateLabel": "Mar 30, 2026",
+    "what": "Designed and developed Myanmar Agri-Med AI, a domain-specific, instruction-tuned conversational AI built to bridge the digital information divide for rural communities in the agriculture and healthcare sectors.",
+    "how": "I fine-tuned a lightweight multilingual model using custom localized datasets. To guarantee factual safety and prevent AI hallucinations, I engineered a Retrieval-Augmented Generation (RAG) pipeline utilizing FAISS vector search. I then deployed the solution via a Streamlit web interface featuring domain switching, safety distance thresholds, and automatic medical disclaimers.",
+    "impact": "The system achieved 90% semantic match accuracy, ultra-fast 0.85-second response times, and a 4.67/5 user rating for safety and linguistic clarity. The project validated my undergraduate thesis (securing First Class Honours) and is published openly on Zenodo to advance low-resource NLP research.",
+    "legacyAssetReferences": [
+      "images/Agri_Med/overview.png",
+      "images/Agri_Med/Phoneview.png",
+      "images/Agri_Med/PhoneView_2.png",
+      "images/Agri_Med/Conversation.png",
+      "images/Agri_Med/Mapping.png"
+    ],
+    "externalLinks": [
+      {
+        "href": "https://zenodo.org/records/19339756",
+        "label": "Zenodo"
+      }
+    ]
+  },
+  {
+    "id": "sarthin-platform-launch",
+    "title": "Sarthin Platform Launch",
+    "dateLabel": "Dec 18, 2025",
+    "what": "Founded and spearheaded the development of Sarthin - စာသင် , a social enterprise EdTech platform. I served as the primary bridge between technical execution and social mission, ensuring the platform was both functional and accessible.",
+    "how": "Managed a cross-functional team to build a custom Moodle-based LMS. I led the technical integration of localized bank payment gateways and orchestrated partnerships with international NGOs to streamline educational delivery.",
+    "impact": "Launched our Web Development course and managed a scholarship initiative for 38 students in collaboration with Community Partners International (CPI) and New Future YouthCorner .",
+    "legacyAssetReferences": [
+      "images/Sarthin.png",
+      "images/Sarthin/Payment.png",
+      "images/Sarthin/overview.png",
+      "images/Sarthin/knowledgesharing.png",
+      "images/Sarthin/lecture.png",
+      "images/Sarthin/me.png",
+      "images/Sarthin/reading.png",
+      "images/Sarthin/Web.png",
+      "images/Sarthin/scholarship.png"
+    ],
+    "externalLinks": [
+      {
+        "href": "https://sarthin.com/",
+        "label": "Sarthin - စာသင်"
+      },
+      {
+        "href": "https://cpintl.org/",
+        "label": "Community Partners International (CPI)"
+      },
+      {
+        "href": "https://www.cpt-foundation.org/",
+        "label": "New Future YouthCorner"
+      }
+    ]
+  },
+  {
+    "id": "social-enterprise-evolution-grant",
+    "title": "Social Enterprise Evolution & Grant",
+    "dateLabel": "Aug 2025",
+    "what": "Transformed Sarthin from a solo, unfunded university project into a fully-fledged social enterprise powered by a sustainable scholarship model.",
+    "how": "I leveraged our working prototype and local-payment architecture to pitch our vision to Community Partners International (CPI) . By demonstrating traction and a clear solution to the financial barrier, I secured the critical grant funding needed to scale our infrastructure.",
+    "impact": "The grant allowed us to finalize production and establish a sustainable \"scholarship chain,\" ensuring that revenue from the platform could continuously fund free education for underserved learners across the country.",
+    "legacyAssetReferences": [
+      "images/Social/evolve.png",
+      "images/Social/intro.jpg",
+      "images/Social/fund_raising.png"
+    ],
+    "externalLinks": [
+      {
+        "href": "https://cpintl.org/",
+        "label": "Community Partners International (CPI)"
+      }
+    ]
+  },
+  {
+    "id": "edtech-innovation-ideation",
+    "title": "EdTech Innovation & Ideation",
+    "dateLabel": "Apr 2025",
+    "what": "Started Sarthin as a passion project during my university studies—a simple vision to allow anyone in Myanmar to learn coding anywhere, anytime, in their own language.",
+    "how": "I initially built a basic self-learning platform to share my own coding knowledge. However, I quickly hit a massive roadblock: the local payment barrier. With no initial funding, I chose to face the uncertainty head-on, pivoting the technical architecture to integrate local banking systems from scratch.",
+    "impact": "Successfully built a working technical prototype that proved our core thesis: \"What if anyone in Myanmar could learn to code — from anywhere, in their own language?\"",
+    "legacyAssetReferences": [
+      "images/idea/why.png",
+      "images/idea/first.jpg",
+      "images/idea/1.png",
+      "images/idea/2.png",
+      "images/idea/3.png"
+    ],
+    "externalLinks": []
+  },
+  {
+    "id": "iot-robotics-research",
+    "title": "IoT Robotics Research",
+    "dateLabel": "Mar 2025",
+    "what": "Designed and engineered an autonomous, low-cost obstacle detection and avoidance robot tailored for real-time navigation within IoT and Big Data environments.",
+    "how": "I built the hardware architecture using an ESP32 microcontroller integrated with a precision three-point ultrasonic sensor array. I specifically leveraged the ESP32's wireless capabilities to make the system highly scalable, allowing it to collect real-time spatial data for remote decision-making.",
+    "impact": "The research was peer-reviewed and accepted at the 10th International Conference on Big Data Analytics (ICBDA 2025) in Singapore. The full paper is published openly on Zenodo .",
+    "legacyAssetReferences": [
+      "images/iot/final.png",
+      "images/iot/1.png",
+      "images/iot/2.png",
+      "images/iot/3.png",
+      "images/iot/4.png",
+      "images/iot/5.png",
+      "images/iot/6.png"
+    ],
+    "externalLinks": [
+      {
+        "href": "https://zenodo.org/records/19335334",
+        "label": "Zenodo"
+      }
+    ]
+  },
+  {
+    "id": "corporate-wellness-trauma-healing",
+    "title": "Corporate Wellness & Trauma Healing",
+    "dateLabel": "Oct 2023 - Jan 2024",
+    "what": "Facilitated a comprehensive series of Corporate Wellness, Life Coaching, and Trauma Healing events designed to foster psychological resilience for leading corporate teams and the general public.",
+    "how": "In collaboration with the Breakout organization, I designed and led interactive workshops utilizing therapeutic frameworks like the Medicine Wheel alongside collaborative empathy exercises. These sessions were specifically tailored to help professionals maintain their authenticity and mental clarity while navigating environments of high systemic uncertainty.",
+    "impact": "Successfully delivered over 10 high-impact corporate sessions-reaching 40 to 60 professionals per session-to major Myanmar enterprises—including Cho Cho Industry and Golden Duck Restaurant (Yangon & Mandalay)—as well as hosting 2 dedicated trauma healing events for the broader community.",
+    "legacyAssetReferences": [
+      "images/corporate/me.png",
+      "images/corporate/board.jpg",
+      "images/corporate/team.jpg",
+      "images/corporate/team_2.jpg",
+      "images/corporate/board_2.jpg",
+      "images/corporate/trauma.jpg"
+    ],
+    "externalLinks": [
+      {
+        "href": "https://www.chochoindustry.com/",
+        "label": "Cho Cho Industry"
+      }
+    ]
+  },
+  {
+    "id": "global-program-management",
+    "title": "Global Program Management",
+    "dateLabel": "Jun 2024",
+    "what": "Served as Project Coordinator and Youth Ambassador, managing the end-to-end operations of a comprehensive 1-year online Diploma in Social Work program. (YSSW)",
+    "how": "Acting strictly in a management capacity, I directed cross-functional operations across IT, marketing, and academic faculty. I handled the integration of international donation tools and coordinated a widespread recruitment drive that attracted applicants from Myanmar, Thailand, and Bangladesh. Additionally, I oversaw the complex logistics required to facilitate a rigorous 200-hour field placement internship.",
+    "impact": "Successfully scaled the program internationally and ensured the seamless operational delivery of both digital coursework and physical internships, demonstrating my ability to manage high-stakes, multi-national educational logistics.",
+    "legacyAssetReferences": [
+      "images/yssw/program.jpg",
+      "images/yssw/demographic.png"
+    ],
+    "externalLinks": [
+      {
+        "href": "https://yssw.org/",
+        "label": "(YSSW)"
+      }
+    ]
+  },
+  {
+    "id": "open-mic-2024-advocacy-inclusion",
+    "title": "Open Mic 2024: Advocacy & Inclusion",
+    "dateLabel": "May 2024",
+    "what": "As Program Coordinator, I orchestrated \"Open Mic 2024\" with the Friedrich Naumann Foundation for Freedom (FNF), creating a safe, high-profile platform for marginalized communities to speak out on gender-based discrimination.",
+    "how": "I directed end-to-end event logistics—from nationwide speaker recruitment to stage production. Crucially, I spearheaded cross-sector coordination to provide real-time psychosocial support and expert panelists for speakers discussing systemic trauma.",
+    "impact": "Successfully delivered an emotionally safe, large-scale advocacy event for over 80 attendees, featuring 12 speakers sharing distinct, personal stories. I seamlessly balanced heavy operational logistics with critical mental health care, ensuring those unheard voices were amplified powerfully and safely.",
+    "legacyAssetReferences": [
+      "images/openmic/me.jpg",
+      "images/openmic/overview.jpg"
+    ],
+    "externalLinks": []
+  },
+  {
+    "id": "life-skills-for-street-children",
+    "title": "Life Skills for Street Children",
+    "dateLabel": "Jan - Feb 2024",
+    "what": "Served as Project Coordinator for an 8-part Life Skills Training series dedicated to empowering street children amidst severe socio-economic challenges and instability in Myanmar.",
+    "how": "Overcoming extreme logistical and security hurdles, I successfully negotiated and collaborated with local authorities and community leaders to secure safe gathering spaces, emergency shelter, and daily meals for all participants.",
+    "impact": "The initiative provided immediate systemic relief and tangibly altered the trajectory of these youths' lives, successfully transitioning several children directly off the streets and into the active workforce (securing roles in delivery and hospitality).",
+    "legacyAssetReferences": [
+      "images/life/me.png",
+      "images/life/food.png"
+    ],
+    "externalLinks": []
+  },
+  {
+    "id": "generative-ai-capacity-building",
+    "title": "Generative AI Capacity Building",
+    "dateLabel": "Dec 2023 - Mar 2024",
+    "what": "Directed a massive Generative AI Literacy Campaign across major institutions, training UNDP Myanmar, 22 CSOs, KBZ Bank , and hosting a record-breaking event at the American Center for over 180 attendees.",
+    "how": "As Project Coordinator and Co-Trainer across 25+ workshops, I designed curriculums focused on Prompt Engineering, workflow optimization, and AI-driven multimedia generation tailored specifically for non-profit fundraising and efficiency.",
+    "impact": "Achieved a program-high 4.7/5 satisfaction rating . The training yielded immediate real-world ROI, empowering multiple organizations to successfully deploy AI-generated content for their independent fundraising campaigns.",
+    "legacyAssetReferences": [
+      "images/ai/ac.jpg",
+      "images/ai/bank.jpg",
+      "images/ai/co.jpg",
+      "images/ai/cso.jpg",
+      "images/ai/cso_2.jpg",
+      "images/ai/un.jpg"
+    ],
+    "externalLinks": [
+      {
+        "href": "https://www.kbzbank.com/en/",
+        "label": "KBZ Bank"
+      }
+    ]
+  },
+  {
+    "id": "asean-economic-roundtable",
+    "title": "ASEAN Economic Roundtable",
+    "dateLabel": "Aug 10, 2023",
+    "what": "Represented Myanmar at a high-level roundtable on Advancing Regional Integration, hosted by the Institute for Democracy and Economic Affairs (IDEAS).",
+    "how": "Engaged in complex geopolitical and economic discourse, advocating specifically for the priorities and inclusion of Myanmar's youth within the ASEAN Economic Community 2025 framework.",
+    "impact": "Amplified local youth perspectives on an international policy stage, demonstrating strong regional diplomacy and cross-border economic awareness.",
+    "legacyAssetReferences": [
+      "images/round/me.jpg",
+      "images/round/discussion.jpg",
+      "images/round/standing.jpg"
+    ],
+    "externalLinks": []
+  },
+  {
+    "id": "youth-entrepreneurship-award",
+    "title": "Youth Entrepreneurship Award",
+    "dateLabel": "Jul 29, 2023",
+    "what": "Won First Place for business idea pitching at the 6-day AYFN Youth Entrepreneurship and Leadership Camp in Bali, Indonesia.",
+    "how": "Developed and pitched a comprehensive, viable business model to international judges, competing against top youth leaders and entrepreneurs from across the region.",
+    "impact": "Secured the top award, validating my entrepreneurial frameworks, strategic planning, and cross-cultural public speaking skills on a highly competitive international platform.",
+    "legacyAssetReferences": [
+      "images/bali/overall.jpg",
+      "images/bali/presenting.jpg",
+      "images/bali/team.jpg",
+      "images/bali/happy.jpg"
+    ],
+    "externalLinks": []
+  },
+  {
+    "id": "nextgen-impact-initiatives",
+    "title": "NextGen Impact Initiatives",
+    "dateLabel": "Mar - Aug 2023",
+    "what": "Co-founded 'NextGen Impact', a youth-led non-profit organization dedicated to community empowerment, mental wellness, and education.",
+    "how": "Managed a team of youth volunteers to design and execute multiple concurrent social initiatives, including active fundraising campaigns, donation drives, and knowledge-sharing workshops.",
+    "impact": "Successfully mobilized grassroots community action, delivering crucial psychosocial and educational support during a highly volatile period for local youth.",
+    "legacyAssetReferences": [
+      "images/ngi/overview.jpg",
+      "images/ngi/founders.jpg",
+      "images/ngi/1.jpg",
+      "images/ngi/2.jpg",
+      "images/ngi/3.jpg",
+      "images/ngi/4.jpg"
+    ],
+    "externalLinks": []
+  },
+  {
+    "id": "youth-conversation-club-mmu",
+    "title": "Youth Conversation Club (MMU)",
+    "dateLabel": "Apr 2020 - Mar 2021",
+    "what": "Served as Lead Organizer for the Youth Conversation Club at Myanmar Maritime University (MMU), spearheading its digital transformation during the global pandemic.",
+    "how": "When COVID-19 restrictions abruptly halted all physical university activities, I took the initiative to rally the members and keep the community's spirits high. I orchestrated a complete pivot to virtual platforms, organizing and hosting continuous digital debate series to maintain student engagement remotely.",
+    "impact": "Successfully revived the club's momentum during a period of extreme isolation, preserving a vital space for intellectual discourse and laying my early foundation in crisis management and digital community building.",
+    "legacyAssetReferences": [
+      "images/ycc/front.jpg",
+      "images/ycc/detail.jpg"
+    ],
+    "externalLinks": []
+  }
+]
